@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "31b023293eaffe39f08f17c7abce7fd01a4e2c07",
+    "author": "Ju Yeong Kim <jkim2345@fredhutch.org>",
+    "time": "2020-02-01 05:11:48",
+    "files": 2,
+    "merge": false,
+    "message": "Fix travis\n"
+  },
+  "remote": "https://github.com/ropensci/RSelenium",
+  "pkg": "RSelenium"
+}

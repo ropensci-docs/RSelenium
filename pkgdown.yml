@@ -1,0 +1,16 @@
+pandoc: '2.5'
+pkgdown: 1.6.1
+pkgdown_sha: ~
+articles:
+  basics: basics.html
+  docker: docker.html
+  headless: headless.html
+  internetexplorer: internetexplorer.html
+  saucelabs: saucelabs.html
+  shinytesting: shinytesting.html
+  webinar: webinar.html
+last_built: 2021-07-11T09:51Z
+urls:
+  reference: https://docs.ropensci.org/RSelenium/reference
+  article: https://docs.ropensci.org/RSelenium/articles
+
