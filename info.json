@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "6071311243abe28f132e80097fd7ab3c89e27ae1",
+    "author": "Jonathan Völkle <jonathan.voelkle@web.de>",
+    "time": "2023-07-17 07:37:25",
+    "files": 1,
+    "merge": true,
+    "message": "Merge pull request #277 from ropensci/new-maintainers\n\nupdate DESCRIPTION with new maintainers"
+  },
+  "repo": "https://github.com/ropensci/RSelenium",
+  "pkg": "RSelenium"
+}
