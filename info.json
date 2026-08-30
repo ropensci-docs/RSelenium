@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "70814561b82142216685d125a32bca73b7337b3a",
+    "author": "Jonathan Völkle <jonathan.voelkle@web.de>",
+    "time": "2026-02-21T11:09:12Z",
+    "files": 2,
+    "merge": false,
+    "message": "Increment version number to 1.7.10.9000\n"
+  },
+  "repo": "https://github.com/ropensci/RSelenium",
+  "pkg": "RSelenium",
+  "time": "2026-08-30T07:15:54Z"
+}
